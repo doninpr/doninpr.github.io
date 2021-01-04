@@ -1,0 +1,20 @@
+{
+  "short_name": "Solar Energy Storage",
+  "name": "Solar Energy Storage – Top solar battery installation company in Los Angeles and Orange County",
+  "icons": [
+    {
+      "src": "Favicon-Greempower-V2-150x150.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "Favicon-Greempower-V2-150x150.png",
+      "type": "image/png",
+      "sizes": "150x150"
+    },
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
